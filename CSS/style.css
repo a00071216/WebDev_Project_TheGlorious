@@ -12,6 +12,9 @@ h1 {
    text-align: center;
    text-size-adjust: 50px;
 }
+h3{
+   text-align: center;
+}
 
 
 .hairlist{
@@ -21,6 +24,7 @@ h1 {
    height: 100%;
    border-color: black;
    border-style:double;
+   
    
 
    display:flex;
